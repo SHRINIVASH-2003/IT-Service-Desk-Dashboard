@@ -1,10 +1,11 @@
 # 🖥️ IT Service Desk Executive Operations & SLA Performance Dashboard
 
+![Dashboard Banner](assets/dashboard-banner.png)
+
 An interactive **Power BI** dashboard built to give IT Service Desk leadership a real-time, end-to-end view of ticket operations — from incident volume and resolution performance to SLA compliance, team workload, and customer satisfaction.
 
-![Status](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
 
 ---
 
@@ -75,11 +76,10 @@ Key DAX measures include:
 
 ## 🖼️ Preview
 
-> Add a screenshot of your dashboard here so visitors can preview it without downloading the file:
->
-> ```markdown
-> ![Dashboard Preview](assets/dashboard-preview.png)
-> ```
+<!-- Replace the line below with a screenshot of the full dashboard once opened in Power BI Desktop -->
+![Dashboard Preview](assets/dashboard-preview.png)
+
+> 📸 To add the real dashboard preview: open the .pbix in Power BI Desktop, take a screenshot of the report page, save it as `assets/dashboard-preview.png`, and it will display automatically here.
 
 ---
 
@@ -89,7 +89,9 @@ Key DAX measures include:
 IT-Service-Desk-Dashboard/
 │
 ├── IT_Service_Desk_Dashboard.pbix   # Power BI dashboard file
-├── assets/                          # Screenshots / preview images
+├── assets/
+│   ├── dashboard-banner.png         # Dashboard title banner
+│   └── dashboard-preview.png        # Full dashboard screenshot (add your own)
 └── README.md                        # Project documentation
 ```
 
@@ -101,8 +103,6 @@ IT-Service-Desk-Dashboard/
 2. Open `IT_Service_Desk_Dashboard.pbix` in **Power BI Desktop** (free download from Microsoft).
 3. If connected to a live data source, update the data source credentials/connection under **Home → Transform Data → Data Source Settings**.
 4. Use the **Quarter** and **Region** slicers to filter the report interactively.
-
-> 🔒 Note: If the dashboard uses sample/demo data, no additional setup is required — it will open and render as-is.
 
 ---
 
@@ -121,9 +121,3 @@ IT-Service-Desk-Dashboard/
 Built and designed independently as a self-driven Power BI project.
 
 Feel free to connect, fork, or reach out with feedback and suggestions!
-
----
-
-## 📄 License
-
-This project is open for learning and portfolio purposes. Feel free to reference the structure and approach for your own dashboards.
