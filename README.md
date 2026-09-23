@@ -1,7 +1,7 @@
 # IT Service Desk Executive Operations & SLA Performance Dashboard
 
 ## 📊 Overview
-This repository hosts the analytics and operational metrics for the **IT Service Desk Executive Operations & SLA Performance Dashboard**[cite: 1]. The dashboard tracks core key performance indicators (KPIs), incident lifecycle stages, team productivity, priority distributions, and root cause breakdowns to ensure high service availability and rapid response standards.
+This repository hosts the analytics and operational metrics for the **IT Service Desk Executive Operations & SLA Performance Dashboard**. The dashboard tracks core key performance indicators (KPIs), incident lifecycle stages, team productivity, priority distributions, and root cause breakdowns to ensure high service availability and rapid response standards.
 
 ---
 
